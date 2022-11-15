@@ -1,4 +1,4 @@
-Hi 👋 My name is Andrew Sawadichai
+Hi 👋 my name is Andrew Sawadichai
 ==================================
 
 Software engineer with a passion for learning. Experience with JavaScript frameworks such as Node, Express, React, and front-end development with HTML & CSS. I also have experience with web scaling and deploying microservices through AWS.
